@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnuListado"
+        android:title="@string/texto_listado" />
+    <item
+        android:id="@+id/mnuMAYUS"
+        android:title="@string/texto_mayuscula" />
+    <item
+        android:id="@+id/mnuChnColor"
+        android:title="@string/text_changecolor" />
+    <item
+        android:id="@+id/mnuDeleteFirst"
+        android:title="@string/texto_eliminarPrimera" />
+    <item
+        android:id="@+id/mnuOrderName"
+        android:title="@string/texto_ordenarPorNombre" />
+    <item
+        android:id="@+id/mnuOrderGenero"
+        android:title="@string/texto_ordenarPorGenero" />
+    <item
+        android:id="@+id/mnuInvertir"
+        android:title="@string/texto_inveritLista" />
+</menu>
